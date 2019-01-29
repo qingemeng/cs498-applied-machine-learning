@@ -16,7 +16,6 @@ jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
 MarkupSafe==1.1.0
-metapy==0.2.13
 mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
